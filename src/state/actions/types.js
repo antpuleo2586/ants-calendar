@@ -1,0 +1,2 @@
+export const SET_CURRENT_MONTH = 'SET_CURRENT_MONTH';
+export const ADD_REMINDER = 'ADD_REMINDER';
